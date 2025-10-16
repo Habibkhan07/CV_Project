@@ -1,4 +1,4 @@
-✨ Image Edge Detection Web App
+✨ Image Edge Detection
 
 This is a web application built with Python and Streamlit that allows users to perform real-time edge detection on images. It provides a user-friendly web interface to upload an image, select from various edge detection algorithms (Canny, Sobel, Laplacian), and fine-tune their parameters with interactive controls.
 
