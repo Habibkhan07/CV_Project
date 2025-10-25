@@ -12,6 +12,17 @@ Key Features:
 * Image Rotation Pre-process the image by rotating it by 0° or 270°.
 * Side-by-Side Comparison: View the original image and the processed, edge-detected image concurrently.
 
+Instrcution to use Confiq.toml File 
+
+you need to define a path  .streamlit/config.toml 
+
+Then you need to run the command 
+
+streamlit run main.py 
+
+this will automatically read the config file 
+
+
  Setup and Installation
 
 To run this application locally, you need to have Python installed on your system.
