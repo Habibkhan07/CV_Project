@@ -1,0 +1,15 @@
+[theme]
+# Warm parchment tone background for a refined classic feel
+backgroundColor = "#0a1930"
+
+# Deep royal blue panels (professional & trustworthy)
+secondaryBackgroundColor = "#1f3e6a"
+
+# Soft gold accent for buttons, sliders, and highlights
+primaryColor = "#ffc72c"
+
+# Near-black text for crisp readability
+textColor = "#eaf3ff"
+
+# Transitional font – serif for elegance, sans-serif for clarity
+font = "serif"
