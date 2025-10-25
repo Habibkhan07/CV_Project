@@ -134,4 +134,3 @@ if uploaded_file is not None:
             st.image(processed, caption=f"{selected_algorithm} Result", use_container_width=True, channels="GRAY" if processed.ndim == 2 else "RGB")
 else:
     st.info("Please upload an image to get started!")
-
